@@ -1,6 +1,4 @@
 message = "cXaXmXpXuXs"
-hiddenword = 
-skippedchar = 
 
-print(hiddenword)
-print(skippedchar)
+print(message[0::2])
+print(message[1::2])
